@@ -1,0 +1,16 @@
+[
+    {
+        "location": {
+            "location_id": "Ds562",
+            "location_name": "Lahad Datu"
+        },
+        "date": "2024-09-27",
+        "morning_forecast": "Tiada hujan",
+        "afternoon_forecast": "Hujan di beberapa tempat",
+        "night_forecast": "Tiada hujan",
+        "summary_forecast": "Hujan di beberapa tempat",
+        "summary_when": "Petang",
+        "min_temp": 23,
+        "max_temp": 33
+    }
+]
