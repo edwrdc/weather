@@ -1,16 +1,24 @@
-[
-    {
-        "location": {
-            "location_id": "Ds562",
-            "location_name": "Lahad Datu"
-        },
-        "date": "2024-09-27",
-        "morning_forecast": "Tiada hujan",
-        "afternoon_forecast": "Hujan di beberapa tempat",
-        "night_forecast": "Tiada hujan",
-        "summary_forecast": "Hujan di beberapa tempat",
-        "summary_when": "Petang",
-        "min_temp": 23,
-        "max_temp": 33
-    }
-]
+{
+    "meta": {
+        "total": 1,
+        "filter": "2024-09-30@date",
+        "contains": "Lahad Datu@location__location_name",
+        "limit": 1
+    },
+    "data": [
+        {
+            "location": {
+                "location_id": "Ds562",
+                "location_name": "Lahad Datu"
+            },
+            "date": "2024-09-30",
+            "morning_forecast": "Tiada hujan",
+            "afternoon_forecast": "Ribut petir di beberapa tempat",
+            "night_forecast": "Tiada hujan",
+            "summary_forecast": "Ribut petir di beberapa tempat",
+            "summary_when": "Petang",
+            "min_temp": 24,
+            "max_temp": 33
+        }
+    ]
+}
